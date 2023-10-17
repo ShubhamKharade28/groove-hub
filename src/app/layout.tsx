@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   description: 'Listen to your favourites',
 }
 
+
 export default function RootLayout({
   children,
 }: {
